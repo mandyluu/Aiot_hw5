@@ -6,7 +6,7 @@ Step1：
 3. 在vscode裡面下載python
 4. pip install (flask, pandas, sklearn, pymysql)
 
-![image](1.png)
-![image](2.png)
-![image](3.png)
-![image](4.png)
+<img src="1.png" width="500"/><br/>
+<img src="2.png" width="500"/><br/>
+<img src="3.png" width="500"/><br/>
+<img src="4.png" width="500"/><br/>
